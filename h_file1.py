@@ -1,5 +1,4 @@
-def addieren(x,y):
-    summe = x+y
-    return summe
+Objekt = "Test"
+print("Das ist ein" + Objekt)
 
-print(addieren(4,1))
+print("H1 in da House")
